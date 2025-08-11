@@ -9,7 +9,7 @@ It **fetches real-time data from the YouTube API** and mimics several **industry
 
 | Home Page | Watch Page |
 |----------|------------------|
-| ![Home](https://github.com/Hameedalahr/My-Youtube/blob/main/Home.png?raw=true) | ![Watch](https://github.com/Hameedalahr/My-Youtube/blob/main/Watch%20Page.png?raw=true) | 
+
 
 ---
 
